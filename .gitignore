@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Environment & Keys
+.env
+
+# Audio Uploads & Outputs
+uploads/
+*.wav
